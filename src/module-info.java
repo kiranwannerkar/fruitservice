@@ -1,0 +1,2 @@
+module fruit_service {
+}
